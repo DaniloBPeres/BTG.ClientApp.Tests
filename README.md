@@ -44,7 +44,7 @@ Essas características tornam os testes mais difíceis de isolar, pois:
 Certifique-se de ter o .NET SDK 9 instalado.
 
 ```bash
-git clone https://github.com/seu-usuario/BTG.ClientApp.Tests.git
+git clone https://github.com/DaniloBPeres/BTG.ClientApp.Tests.git
 cd BTG.ClientApp.Tests
 dotnet restore
 dotnet test
